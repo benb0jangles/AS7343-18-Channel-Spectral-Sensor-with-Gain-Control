@@ -71,16 +71,6 @@ Calibrate with your own reference equipment:
 
 Calibrations are stored per gain setting and persist across sessions.
 
-## Documentation
-
-Complete documentation in `documentation/` folder:
-- **Quick Start Guides:** Get running in 5-15 minutes
-- **Complete References:** Detailed feature documentation
-- **Light Experiments:** 15+ guided experiments
-- **Reference Charts:** Typical values for common light sources
-
-See [`documentation/README.md`](documentation/README.md) for full navigation.
-
 ## Measurements
 
 ### Supported Metrics
@@ -110,7 +100,6 @@ FD/FDL:   Flicker detection
 ### Software
 - Arduino IDE with ESP32 board support
 - Python 3.7+
-- SparkFun AS7343 Arduino Library
 
 ### Optional (for calibration)
 - Lux meter or smartphone with lux app
@@ -118,11 +107,11 @@ FD/FDL:   Flicker detection
 
 ## License
 
-[Specify your license here]
+MIT License 
 
 ## Author
 
-[Your name/organization]
+benb0jangles 2026
 
 ## Acknowledgments
 
