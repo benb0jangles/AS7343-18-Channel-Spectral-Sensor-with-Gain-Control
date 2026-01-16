@@ -2,6 +2,9 @@
 
 Real-time spectral analysis system with calibrated measurements for light characterization and grow light analysis.
 
+![1_image1](https://github.com/benb0jangles/AS7343-18-Channel-Spectral-Sensor-with-Gain-Control/blob/main/img/Screenshot%202026-01-16%20at%2012.02.40%20Medium.jpeg)
+
+
 ## Overview
 
 This project provides complete firmware and GUI software for the **AMS AS7343** 18-channel spectral sensor, enabling professional-grade light measurements including Lux, PAR, PPFD, CCT, and spectral power distribution visualization.
