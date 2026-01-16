@@ -34,6 +34,9 @@ This project provides complete firmware and GUI software for the **AMS AS7343** 
 - **Per-gain calibration** with persistent storage
 - Spectrum-specific conversion for different light sources
 
+![1_image1](https://github.com/benb0jangles/AS7343-18-Channel-Spectral-Sensor-with-Gain-Control/blob/main/img/Screenshot%202026-01-16%20at%2011.59.49%20Medium.jpeg)
+
+
 ## Quick Start
 
 ### 1. Upload Firmware
