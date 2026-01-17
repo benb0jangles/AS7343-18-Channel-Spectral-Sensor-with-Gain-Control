@@ -41,7 +41,7 @@ This project provides complete firmware and GUI software for the **AMS AS7343** 
 
 ### 1. Upload Firmware
 ```bash
-# Open as7343_18ch_gain_esp32c3/as7343_18ch_gain_esp32c3.ino in Arduino IDE
+# Open as7343_18ch_gain_esp32c3.ino in Arduino IDE
 # Select: Board: ESP32C3 Dev Module
 # Upload to ESP32-C3
 ```
